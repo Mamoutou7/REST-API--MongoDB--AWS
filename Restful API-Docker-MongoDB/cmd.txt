@@ -1,0 +1,5 @@
+Lancer MongoDB en ligne de commande :
+
+ 2 terminaux ouverts 
+ 	* cd /etc puis mongod
+ 	* cd /etc puis mongo
